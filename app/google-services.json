@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074190365911",
+    "firebase_url": "https://fcmexample-fd356.firebaseio.com",
+    "project_id": "fcmexample-fd356",
+    "storage_bucket": "fcmexample-fd356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074190365911:android:e1d8e44bee9390dd",
+        "android_client_info": {
+          "package_name": "com.beloushkin.learning.android.fcmexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074190365911-s2mdu5spmgjlnk01n5gh63rm78010sjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beloushkin.learning.android.fcmexample",
+            "certificate_hash": "8d5adfe4ad5b2aa72632838425403c9b872d1127"
+          }
+        },
+        {
+          "client_id": "1074190365911-536lktf9pl3fihevqqgj5icn0q2el1sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB50fTZ2L7SHQCXw6cq4U4VMibUwfsz-7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074190365911-536lktf9pl3fihevqqgj5icn0q2el1sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
