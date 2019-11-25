@@ -6,8 +6,9 @@ import android.app.NotificationManager;
 import android.content.Context;
 import android.graphics.Color;
 import android.os.Build;
-import android.support.v4.app.NotificationCompat;
 import android.util.Log;
+
+import androidx.core.app.NotificationCompat;
 
 import com.beloushkin.learning.android.fcmexample.R;
 import com.google.firebase.messaging.FirebaseMessagingService;
@@ -38,6 +39,8 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
         showNotification(remoteMessage.getNotification().getTitle(), remoteMessage.getNotification().getBody());
     }
+
+
 
     private void showNotification(String title, String body) {
         NotificationManager notificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);

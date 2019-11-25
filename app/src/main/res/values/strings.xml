@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">fcmexample</string>
+    <string name="msg_subscribed">Subscribed!</string>
+    <string name="msg_subscription_failed">Subscription failed</string>
 </resources>
